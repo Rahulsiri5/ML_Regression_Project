@@ -72,5 +72,16 @@ To run the project, clone this repository and follow the steps below:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/Bangalore_Home_Price_Prediction.git
-cd Bangalore_Home_Price_Prediction
+2. Navigate to the project directory:
+   ```bash
+   cd Bangalore_Home_Price_Prediction
+3. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+4. Run the Jupyter notebook
+   ```bash
+   jupyter notebook
+
+## Contributing
+If you'd like to contribute to this project, feel free to open a pull request. Ensure that your code follows the existing style and passes all tests.
 
